@@ -1,18 +1,20 @@
 {
-    "cards": [
-    {
-      "name": "x x x x 3966",
-      "working": true,
-      "balance": 70,
-      "id": 1,
-      "logo": "https://api.iconify.design/grommet-icons:mastercard.svg"
-    },
+  "cards": [
     {
       "name": "x x x x 3966",
       "working": false,
+      "balance": 100,
+      "id": 1,
+      "logo": "https://api.iconify.design/grommet-icons:mastercard.svg",
+      "description": "Текущая карта"
+    },
+    {
+      "name": "x x x x 3966",
+      "working": true,
       "balance": 234,
       "id": 2,
-      "logo": "https://belkart.by/upload/resize_cache/iblock/96e/141_200_1/logotip-belkart-v-odnom-tsvete.png"
+      "logo": "https://belkart.by/upload/resize_cache/iblock/96e/141_200_1/logotip-belkart-v-odnom-tsvete.png",
+      "description": "Карта #2"
     }
   ],
   "journals": [
@@ -36,13 +38,6 @@
       "code": "170006798",
       "id": 2,
       "amount": 21,
-      "source": 1
-    },
-    {
-      "name": "А1",
-      "code": "295678432",
-      "id": 3,
-      "amount": 15,
       "source": 1
     }
   ],

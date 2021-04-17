@@ -2,15 +2,15 @@
   "cards": [
     {
       "name": "x x x x 3966",
-      "working": false,
+      "working": true,
       "balance": 100,
       "id": 1,
       "logo": "https://api.iconify.design/grommet-icons:mastercard.svg",
       "description": "Текущая карта"
     },
     {
-      "name": "x x x x 3966",
-      "working": true,
+      "name": "x x x x 5642",
+      "working": false,
       "balance": 234,
       "id": 2,
       "logo": "https://belkart.by/upload/resize_cache/iblock/96e/141_200_1/logotip-belkart-v-odnom-tsvete.png",
